@@ -4,8 +4,8 @@ A single page application built with Vite and React.
 
 ## Prerequisites
 
-- Node.js (v14.x or later)
-- npm (v6.x or later)
+- Node.js (v18.x or later)
+- npm (v8.x or later)
 
 ## Installation
 
